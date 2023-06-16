@@ -1,0 +1,7 @@
+title: Prompt Gallery Extension
+version: 0.0.4
+description: A gallery of prompts for omnitool extension
+author: huntersjq
+origin: https://github.com/huntersjq/omni-extension-prompt-gallery.git
+client:
+  addToWorkbench: true
